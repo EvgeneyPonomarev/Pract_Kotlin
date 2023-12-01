@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pr-10</string>
+    <string name="ErrUnCorrect">Ошибка: введите корректные числа</string>
+    <string name="Rashet">Рассчитать</string>
+    <string name="NoCorrect">Ошибка: введите корректные числа</string>
+    <string name="Perepol">Переполнение</string>
+    <string name="Nootvet">Нет решений</string>
+    <string name="Many">Множество значений</string>
+    <string name="Rashets">Рассчитать</string>
+</resources>
